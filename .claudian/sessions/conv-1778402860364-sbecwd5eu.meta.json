@@ -1,0 +1,24 @@
+{
+  "id": "conv-1778402860364-sbecwd5eu",
+  "providerId": "claude",
+  "title": "Create trend line analysis with Dow Theory",
+  "titleGenerationStatus": "success",
+  "createdAt": 1778402860364,
+  "updatedAt": 1778419459902,
+  "lastResponseAt": 1778402905621,
+  "sessionId": "041f61da-fa94-4c24-af4c-450f787b55a4",
+  "providerState": {
+    "providerSessionId": "041f61da-fa94-4c24-af4c-450f787b55a4"
+  },
+  "currentNote": "趋势线/未命名.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 1555,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 31026,
+    "contextWindow": 200000,
+    "contextTokens": 32581,
+    "percentage": 16,
+    "contextWindowIsAuthoritative": true
+  }
+}

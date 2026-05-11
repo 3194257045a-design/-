@@ -1,0 +1,23 @@
+{
+  "id": "conv-1778415877109-j27m3s3m1",
+  "providerId": "claude",
+  "title": "Populate trading data files",
+  "titleGenerationStatus": "success",
+  "createdAt": 1778415877109,
+  "updatedAt": 1778419037727,
+  "lastResponseAt": 1778418856123,
+  "sessionId": "4187e6ab-2f41-45cc-b330-a947e554a631",
+  "providerState": {
+    "providerSessionId": "4187e6ab-2f41-45cc-b330-a947e554a631"
+  },
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 0,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 0,
+    "contextWindow": 200000,
+    "contextTokens": 0,
+    "percentage": 0,
+    "contextWindowIsAuthoritative": true
+  }
+}

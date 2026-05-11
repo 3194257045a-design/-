@@ -1,0 +1,24 @@
+{
+  "id": "conv-1778422835755-pz2wmrt60",
+  "providerId": "claude",
+  "title": "Create Modular File Structure",
+  "titleGenerationStatus": "success",
+  "createdAt": 1778422835756,
+  "updatedAt": 1778423995056,
+  "lastResponseAt": 1778423899601,
+  "sessionId": "6ad82ef3-55be-438b-bb57-e3a4515b8ac5",
+  "providerState": {
+    "providerSessionId": "6ad82ef3-55be-438b-bb57-e3a4515b8ac5"
+  },
+  "currentNote": "仓位管理/盈利空间/主文件.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 87,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 88277,
+    "contextWindow": 200000,
+    "contextTokens": 88364,
+    "percentage": 44,
+    "contextWindowIsAuthoritative": true
+  }
+}

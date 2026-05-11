@@ -1,0 +1,24 @@
+{
+  "id": "conv-1778509611891-gjnl3fhsm",
+  "providerId": "claude",
+  "title": "Redesign README",
+  "titleGenerationStatus": "success",
+  "createdAt": 1778509611891,
+  "updatedAt": 1778510154436,
+  "lastResponseAt": 1778509646368,
+  "sessionId": "4cec2e0b-a935-49a2-a10b-2b60d75423ed",
+  "providerState": {
+    "providerSessionId": "4cec2e0b-a935-49a2-a10b-2b60d75423ed"
+  },
+  "currentNote": "交易体系核心文档/README.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 76,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 35775,
+    "contextWindow": 200000,
+    "contextTokens": 35851,
+    "percentage": 18,
+    "contextWindowIsAuthoritative": true
+  }
+}

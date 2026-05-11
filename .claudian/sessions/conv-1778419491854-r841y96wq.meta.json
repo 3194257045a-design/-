@@ -1,0 +1,26 @@
+{
+  "id": "conv-1778419491854-r841y96wq",
+  "providerId": "claude",
+  "title": "Restructure documents with navigation",
+  "titleGenerationStatus": "success",
+  "createdAt": 1778419491854,
+  "updatedAt": 1778422691137,
+  "lastResponseAt": 1778421715215,
+  "sessionId": "92efb7e0-f491-4b00-864a-baa60729f3ae",
+  "providerState": {
+    "providerSessionId": "92efb7e0-f491-4b00-864a-baa60729f3ae"
+  },
+  "externalContextPaths": [
+    "C:\\Users\\jiao\\Documents\\Obsidian Vault"
+  ],
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 54,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 150523,
+    "contextWindow": 200000,
+    "contextTokens": 150577,
+    "percentage": 75,
+    "contextWindowIsAuthoritative": true
+  }
+}

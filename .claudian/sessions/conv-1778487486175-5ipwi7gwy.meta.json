@@ -1,0 +1,23 @@
+{
+  "id": "conv-1778487486175-5ipwi7gwy",
+  "providerId": "claude",
+  "title": "Create Market Analysis Module Notes",
+  "titleGenerationStatus": "success",
+  "createdAt": 1778487486175,
+  "updatedAt": 1778492845271,
+  "lastResponseAt": 1778492845271,
+  "sessionId": "d92f010f-07b0-4e3c-9e31-135c945a1b43",
+  "providerState": {
+    "providerSessionId": "d92f010f-07b0-4e3c-9e31-135c945a1b43"
+  },
+  "currentNote": "交易体系核心文档/市场分析/模块3-品种分析/品种分析模块导航.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 0,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 0,
+    "contextWindow": 200000,
+    "contextTokens": 0,
+    "percentage": 0
+  }
+}

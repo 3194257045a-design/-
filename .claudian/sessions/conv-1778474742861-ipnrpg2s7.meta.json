@@ -1,0 +1,24 @@
+{
+  "id": "conv-1778474742861-ipnrpg2s7",
+  "providerId": "claude",
+  "title": "Complete Position Management Modules",
+  "titleGenerationStatus": "success",
+  "createdAt": 1778474742861,
+  "updatedAt": 1778480105858,
+  "lastResponseAt": 1778478624711,
+  "sessionId": "138beca8-5096-427e-b311-9fcad4ae4134",
+  "providerState": {
+    "providerSessionId": "138beca8-5096-427e-b311-9fcad4ae4134"
+  },
+  "currentNote": "交易体系核心文档/仓位管理/模块1-仓位基础/仓位基础模块导航.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 0,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 0,
+    "contextWindow": 200000,
+    "contextTokens": 0,
+    "percentage": 0,
+    "contextWindowIsAuthoritative": true
+  }
+}

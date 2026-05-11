@@ -1,0 +1,23 @@
+{
+  "id": "conv-1778480136252-yyyqd2d50",
+  "providerId": "claude",
+  "title": "Complete market analysis dimensions",
+  "titleGenerationStatus": "success",
+  "createdAt": 1778480136252,
+  "updatedAt": 1778487480599,
+  "lastResponseAt": 1778483941701,
+  "sessionId": "09b209fc-eb4e-46d7-95e7-aed534c03cb8",
+  "providerState": {
+    "providerSessionId": "09b209fc-eb4e-46d7-95e7-aed534c03cb8"
+  },
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 0,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 0,
+    "contextWindow": 200000,
+    "contextTokens": 0,
+    "percentage": 0,
+    "contextWindowIsAuthoritative": true
+  }
+}

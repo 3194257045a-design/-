@@ -1,0 +1,26 @@
+{
+  "id": "conv-1778388816786-19b1sbo8x",
+  "providerId": "claude",
+  "title": "Create trading knowledge base",
+  "titleGenerationStatus": "success",
+  "createdAt": 1778388816787,
+  "updatedAt": 1778402831231,
+  "lastResponseAt": 1778392155017,
+  "sessionId": "220c164c-e315-4bca-9c5b-a92e896d0437",
+  "providerState": {
+    "providerSessionId": "220c164c-e315-4bca-9c5b-a92e896d0437"
+  },
+  "externalContextPaths": [
+    "D:\\下载\\新建文件夹"
+  ],
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 33354,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 557,
+    "contextWindow": 200000,
+    "contextTokens": 33911,
+    "percentage": 17,
+    "contextWindowIsAuthoritative": true
+  }
+}

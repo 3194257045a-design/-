@@ -1,0 +1,23 @@
+{
+  "id": "conv-1778424014650-dc6r7bw52",
+  "providerId": "claude",
+  "title": "Delete all notes except main file",
+  "titleGenerationStatus": "success",
+  "createdAt": 1778424014650,
+  "updatedAt": 1778509599272,
+  "lastResponseAt": 1778493326551,
+  "sessionId": "f9969dec-758a-432b-89e2-4ba124fff762",
+  "providerState": {
+    "providerSessionId": "f9969dec-758a-432b-89e2-4ba124fff762"
+  },
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 315,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 112234,
+    "contextWindow": 200000,
+    "contextTokens": 112549,
+    "percentage": 56,
+    "contextWindowIsAuthoritative": true
+  }
+}
