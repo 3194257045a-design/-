@@ -4,7 +4,7 @@
   "title": "Create Market Analysis Module Notes",
   "titleGenerationStatus": "success",
   "createdAt": 1778487486175,
-  "updatedAt": 1778492845271,
+  "updatedAt": 1778773569919,
   "lastResponseAt": 1778492845271,
   "sessionId": "d92f010f-07b0-4e3c-9e31-135c945a1b43",
   "providerState": {
@@ -18,6 +18,7 @@
     "cacheReadInputTokens": 0,
     "contextWindow": 200000,
     "contextTokens": 0,
-    "percentage": 0
+    "percentage": 0,
+    "contextWindowIsAuthoritative": false
   }
 }

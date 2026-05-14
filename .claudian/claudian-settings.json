@@ -1,76 +1,92 @@
-{
-  "userName": "",
-  "permissionMode": "yolo",
-  "model": "haiku",
-  "thinkingBudget": "low",
-  "effortLevel": "medium",
-  "serviceTier": "default",
-  "enableAutoTitleGeneration": true,
-  "titleGenerationModel": "",
-  "excludedTags": [],
-  "mediaFolder": "",
-  "systemPrompt": "",
-  "persistentExternalContextPaths": [],
-  "sharedEnvironmentVariables": "PATH=C:\\Users\\jiao\\AppData\\Roaming\\npm;C:\\Program Files\\nodejs;C:\\Users\\jiao\\.workbuddy\\binaries\\node\\versions\\22.12.0",
-  "envSnippets": [],
-  "customContextLimits": {},
-  "keyboardNavigation": {
-    "scrollUpKey": "w",
-    "scrollDownKey": "s",
-    "focusInputKey": "i"
-  },
-  "locale": "zh-CN",
-  "providerConfigs": {
-    "claude": {
-      "safeMode": "acceptEdits",
-      "cliPath": "C:\\Users\\jiao\\.workbuddy\\binaries\\node\\versions\\22.12.0\\node_modules\\@anthropic-ai\\claude-agent-sdk\\node_modules\\@anthropic-ai\\claude-agent-sdk-win32-x64\\claude.exe",
-      "cliPathsByHost": {
-        "damn": "C:\\Users\\jiao\\.workbuddy\\binaries\\node\\versions\\22.12.0\\node_modules\\@anthropic-ai\\claude-code\\bin\\claude.exe"
-      },
-      "loadUserSettings": true,
-      "enableChrome": false,
-      "enableBangBash": false,
-      "enableOpus1M": false,
-      "enableSonnet1M": false,
-      "customModels": "",
-      "lastModel": "haiku",
-      "environmentVariables": "ANTHROPIC_BASE_URL=https://open.bigmodel.cn/api/anthropic\nANTHROPIC_API_KEY=261801b51511434da234e7deede93b3c.ZX2MJnNtLoVoE0kh\n",
-      "environmentHash": "ANTHROPIC_BASE_URL=https://open.bigmodel.cn/api/anthropic"
-    },
-    "codex": {
-      "enabled": true,
-      "safeMode": "workspace-write",
-      "cliPath": "",
-      "cliPathsByHost": {},
-      "customModels": "",
-      "reasoningSummary": "detailed",
-      "environmentVariables": "",
-      "environmentHash": "",
-      "installationMethodsByHost": {
-        "damn": "native-windows"
-      },
-      "wslDistroOverridesByHost": {}
-    }
-  },
-  "settingsProvider": "claude",
-  "savedProviderModel": {
-    "claude": "haiku"
-  },
-  "savedProviderEffort": {
-    "claude": "medium"
-  },
-  "savedProviderServiceTier": {},
-  "savedProviderThinkingBudget": {
-    "claude": "low"
-  },
-  "savedProviderPermissionMode": {
-    "claude": "yolo"
-  },
-  "lastCustomModel": "GLM 5.1",
-  "maxTabs": 3,
-  "tabBarPosition": "input",
-  "enableAutoScroll": true,
-  "deferMathRenderingDuringStreaming": true,
-  "chatViewPlacement": "right-sidebar",
-  "hiddenProviderCommands": {}
+﻿{
+    "userName":  "",
+    "permissionMode":  "yolo",
+    "model":  "gpt-5.5",
+    "thinkingBudget":  "low",
+    "effortLevel":  "high",
+    "serviceTier":  "default",
+    "enableAutoTitleGeneration":  true,
+    "titleGenerationModel":  "",
+    "excludedTags":  [
+
+                     ],
+    "mediaFolder":  "",
+    "systemPrompt":  "",
+    "persistentExternalContextPaths":  [
+
+                                       ],
+    "sharedEnvironmentVariables":  "PATH=C:\\Users\\jiao\\AppData\\Roaming\\npm;C:\\Program Files\\nodejs;C:\\Users\\jiao\\.workbuddy\\binaries\\node\\versions\\22.12.0",
+    "envSnippets":  [
+
+                    ],
+    "customContextLimits":  {
+
+                            },
+    "keyboardNavigation":  {
+                               "scrollUpKey":  "w",
+                               "scrollDownKey":  "s",
+                               "focusInputKey":  "i"
+                           },
+    "locale":  "zh-CN",
+    "providerConfigs":  {
+                            "claude":  {
+                                           "safeMode":  "acceptEdits",
+                                           "cliPath":  "C:\\Users\\jiao\\.workbuddy\\binaries\\node\\versions\\22.12.0\\node_modules\\@anthropic-ai\\claude-agent-sdk\\node_modules\\@anthropic-ai\\claude-agent-sdk-win32-x64\\claude.exe",
+                                           "cliPathsByHost":  {
+                                                                  "damn":  "C:\\Users\\jiao\\.workbuddy\\binaries\\node\\versions\\22.12.0\\node_modules\\@anthropic-ai\\claude-code\\bin\\claude.exe"
+                                                              },
+                                           "loadUserSettings":  true,
+                                           "enableChrome":  false,
+                                           "enableBangBash":  false,
+                                           "enableOpus1M":  false,
+                                           "enableSonnet1M":  false,
+                                           "customModels":  "",
+                                           "lastModel":  "haiku",
+                                           "environmentVariables":  "ANTHROPIC_BASE_URL=https://open.bigmodel.cn/api/anthropic\nANTHROPIC_API_KEY=261801b51511434da234e7deede93b3c.ZX2MJnNtLoVoE0kh\n",
+                                           "environmentHash":  "ANTHROPIC_BASE_URL=https://open.bigmodel.cn/api/anthropic"
+                                       },
+                            "codex":  {
+                                          "enabled":  true,
+                                          "safeMode":  "workspace-write",
+                                          "cliPath":  "",
+                                          "cliPathsByHost":  {
+                                                                 "damn":  "C:\\Users\\jiao\\AppData\\Local\\OpenAI\\Codex\\bin\\codex.exe"
+                                                             },
+                                          "customModels":  "",
+                                          "reasoningSummary":  "detailed",
+                                          "environmentVariables":  "OPENAI_MODEL=gpt-5.5\nCODEX_SANDBOX=workspace-write",
+                                          "environmentHash":  "",
+                                          "installationMethodsByHost":  {
+                                                                            "damn":  "native-windows"
+                                                                        },
+                                          "wslDistroOverridesByHost":  {
+
+                                                                       }
+                                      }
+                        },
+    "settingsProvider":  "codex",
+    "savedProviderModel":  {
+                               "codex":  "gpt-5.5"
+                           },
+    "savedProviderEffort":  {
+                                "codex":  "high"
+                            },
+    "savedProviderServiceTier":  {
+
+                                 },
+    "savedProviderThinkingBudget":  {
+                                        "claude":  "low"
+                                    },
+    "savedProviderPermissionMode":  {
+                                        "claude":  "yolo"
+                                    },
+    "lastCustomModel":  "GLM 5.1",
+    "maxTabs":  3,
+    "tabBarPosition":  "input",
+    "enableAutoScroll":  true,
+    "deferMathRenderingDuringStreaming":  true,
+    "chatViewPlacement":  "right-sidebar",
+    "hiddenProviderCommands":  {
+
+                               }
 }

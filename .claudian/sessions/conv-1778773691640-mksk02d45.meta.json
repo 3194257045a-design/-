@@ -1,0 +1,24 @@
+{
+  "id": "conv-1778773691640-mksk02d45",
+  "providerId": "claude",
+  "title": "Analyze optimization potential of system",
+  "titleGenerationStatus": "success",
+  "createdAt": 1778773691640,
+  "updatedAt": 1778774615561,
+  "lastResponseAt": 1778774615561,
+  "sessionId": "8452ffd5-7914-4304-9456-723984d9b31d",
+  "providerState": {
+    "providerSessionId": "8452ffd5-7914-4304-9456-723984d9b31d"
+  },
+  "currentNote": "交易体系核心文档/仓位管理/模块1-仓位基础/仓位计算方法.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 54,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 112856,
+    "contextWindow": 200000,
+    "contextTokens": 112910,
+    "percentage": 56,
+    "contextWindowIsAuthoritative": true
+  }
+}
