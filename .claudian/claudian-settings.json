@@ -38,7 +38,7 @@
       "environmentHash": "ANTHROPIC_BASE_URL=https://open.bigmodel.cn/api/anthropic"
     },
     "codex": {
-      "enabled": false,
+      "enabled": true,
       "safeMode": "workspace-write",
       "cliPath": "",
       "cliPathsByHost": {},
