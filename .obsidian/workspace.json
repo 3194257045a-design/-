@@ -197,11 +197,11 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
-    "width": 900.5
+    "width": 674.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -218,7 +218,7 @@
       "publish:发布更改": false
     }
   },
-  "active": "27379742086fe02f",
+  "active": "965f51835bec052d",
   "lastOpenFiles": [
     "交易体系核心文档/仓位管理/模块1-仓位基础/风险管理原理.md",
     "交易体系核心文档/仓位管理/模块1-仓位基础/仓位基础模块导航.md",
