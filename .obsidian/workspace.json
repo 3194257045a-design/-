@@ -192,8 +192,8 @@
             "state": {
               "type": "claudian-view",
               "state": {},
-              "icon": "bot",
-              "title": "Claudian"
+              "icon": "lucide-ghost",
+              "title": "claudian-view"
             }
           }
         ],
@@ -205,7 +205,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "claudian:Open Claudian": false,
       "obsidian-git:Open Git source control": false,
       "graph:查看关系图谱": false,
       "switcher:打开快速切换": false,
@@ -218,8 +217,9 @@
       "publish:发布更改": false
     }
   },
-  "active": "27379742086fe02f",
+  "active": "a2a165bc4aa5466a",
   "lastOpenFiles": [
+    "交易体系核心文档/市场分析/模块4-市场情绪/市场情绪模块导航.md",
     "未命名/忙了半年一算账没赚到钱.md",
     "交易体系核心文档/仓位管理/动态调整机制详解.md",
     "交易体系核心文档/仓位管理/典型场景应用案例和实战指导.md",
@@ -243,7 +243,6 @@
     "交易体系核心文档/仓位管理/模块2-仓位策略/比例仓位策略.md",
     "未命名 1.base",
     "交易体系核心文档/README.md",
-    "交易体系核心文档/市场分析/模块4-市场情绪/市场情绪模块导航.md",
     "交易体系核心文档/市场分析/模块4-市场情绪/群体行为.md",
     "交易体系核心文档/市场分析/模块4-市场情绪/投资者情绪.md",
     "交易体系核心文档/市场分析/模块4-市场情绪/市场周期.md",
